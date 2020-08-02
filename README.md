@@ -26,5 +26,5 @@ Aside from technology, I'm an enthusiastic sports player; I've represented Great
 - Run user testing sessions (across a variety of different types of users) that informed upcoming feature development.
 - Worked with SPOs and contributed towards short-term roadmaps.
 
-
+### Get in touch!
 Please get in touch if any of this sounds interesting to you! :mailbox:
