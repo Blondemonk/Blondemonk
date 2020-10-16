@@ -1,6 +1,6 @@
 ### Welcome / Bienvenue! 👋
 
-I'm Mark, a Product Owner and Software Developer, and I love making things that help people or exploring cool new ideas 😄
+I'm Mark, a Software Developer and Product Owner, and I love making things that help people or exploring cool new ideas 😄
 
 I have 6 years' experience working at an edtech startup, during which time I held multiple responsibilities as teams grew. I'm currently looking for a new role, so please get in touch if you're reading this!
 
