@@ -7,9 +7,7 @@ I have 6 years' experience working at an edtech startup, during which time I hel
 Aside from technology, I'm an enthusiastic sports player; I've represented Great Britain in 19 international floorball matches :gb:, I play cricket :cricket_game: and field hockey :field_hockey: for local clubs, and I've also dabbled in football :soccer:, tennis :tennis:, rugby :rugby_football:, ice hockey :ice_hockey: and more!
 
 ### What I'm working on
-- Using Machine Learning and Comupter Vision to develop a real-time sports-stats app, making it more efficient for coaches to identify and optimise tactics.
-- Developing my proficiency in React (using hooks more, and learning Redux) 
-- Building a [portfolio site](https://mphillips.io)
+- [Cover Drive Cricket](https://coverdrive.cricket)
 
 ### Prior Experience:
 #### Software Developer:
