@@ -1,8 +1,6 @@
 ### Welcome / Bienvenue! 👋
 
-I'm Mark, a Software Developer and Product Owner, and I love making things that help people or exploring cool new ideas 😄
-
-I have 6 years' experience working at an edtech startup, during which time I held multiple responsibilities as teams grew. I'm currently looking for a new role, so please get in touch if you're reading this!
+I'm Mark, a Software Developer and Founder of Cover Drive Cricket, and I love making things that help people or exploring cool new ideas 😄
 
 Aside from technology, I'm an enthusiastic sports player; I've represented Great Britain in 19 international floorball matches :gb:, I play cricket :cricket_game: and field hockey :field_hockey: for local clubs, and I've also dabbled in football :soccer:, tennis :tennis:, rugby :rugby_football:, ice hockey :ice_hockey: and more!
 
@@ -15,7 +13,7 @@ Aside from technology, I'm an enthusiastic sports player; I've represented Great
 - Created a personal information management app to combine tasks, events, bookmarks, notes and projects. Used: React, Node.js, Google APIs.
 - Participated in several hackathons, including winning "[Local People's Choice Winner](https://2018.spaceappschallenge.org/locations/exeter)" for a game about global warming ([Tux's Arctic Exchange](https://humpheh.github.io/sparx-spaceapps/)) in the 2018 Nasa SpaceApps Challenge. 
 - Built on prior research around machine learning algorithms to train an agent that plays Ms Pacman. Used: Python, OpenAI.
-- Created proof-of-concept apps in different verticals: an Android app, a Unity 3d game in VR, and a Firefox extension.
+- Created proof-of-concept apps in different verticals: an Android app, Atom extensions, and a Firefox browser extension.
 
 #### Product Owner:
 - Led teams to design and implement a student-facing insights feature, allowing students to see the progress they're making in an easy-to-understand way.
@@ -26,3 +24,8 @@ Aside from technology, I'm an enthusiastic sports player; I've represented Great
 
 ### Get in touch!
 Please get in touch if any of this sounds interesting to you! :mailbox:
+
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=blondemonk&count_private=true&show_icons=true&hide=stars,issues,contribs)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blondemonk&layout=compact)
+
+Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the stats!
